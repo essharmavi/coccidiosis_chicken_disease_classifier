@@ -1,0 +1,17 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+dvc
+pyYAML
+scipy
+flask
+notebook
+tqdm
+joblib
+ensure
+python-box
+ipykernel
+setuptools
+-e .

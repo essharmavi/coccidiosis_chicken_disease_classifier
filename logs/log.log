@@ -1,0 +1,107 @@
+2025-12-03 13:57:51,010 - INFO - Starting the coccidiosis chicken disease classifier application.
+2025-12-03 14:03:50,199 - INFO - main:10 - Starting the coccidiosis chicken disease classifier application.
+2025-12-04 15:10:39,225 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:10:39,227 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:13:25,765 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:13:25,767 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:13:30,323 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:13:30,324 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:14:18,558 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:14:18,560 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:14:18,561 - INFO - 1312965980:6 - artifacts_root: artifacts
+2025-12-04 15:14:55,959 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:14:55,960 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:14:55,961 - INFO - 889409035:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:17:34,628 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:17:34,630 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:17:34,631 - INFO - 2055637112:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:19:53,746 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:19:53,747 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:19:53,748 - INFO - 3441753802:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:19:53,748 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:21:31,166 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:21:31,167 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:21:31,168 - INFO - 17963624:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:21:31,168 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:22:19,618 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:22:19,620 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:22:19,620 - INFO - 17963624:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:22:19,621 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:22:29,267 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:22:29,268 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:22:29,268 - INFO - 17963624:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:22:29,269 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:22:49,864 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:22:49,864 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:22:49,865 - INFO - 1976820585:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:22:49,865 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:25:40,396 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:25:40,398 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:25:40,399 - INFO - 1976820585:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:25:40,399 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:25:54,671 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:25:54,674 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:25:54,674 - INFO - 1976820585:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:25:54,675 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:26:36,428 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:26:36,430 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:26:36,431 - INFO - 1976820585:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:26:36,432 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:26:36,432 - INFO - 1976820585:13 - artifacts/data_ingestion
+2025-12-04 15:26:36,433 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:26:37,860 - INFO - 13975009:10 - artifacts/data_ingestion/chicken_fecal_images.zip downloaded successfully and saved in artifacts/data_ingestion/chicken_fecal_images.zip
+2025-12-04 15:27:28,655 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:27:28,657 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:27:28,657 - INFO - 1976820585:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:27:28,658 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:27:28,658 - INFO - 1976820585:13 - artifacts/data_ingestion
+2025-12-04 15:27:28,659 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:27:28,659 - INFO - 3168341116:14 - File already exists in artifacts/data_ingestion/chicken_fecal_images.zip with size 183 kb
+2025-12-04 15:27:48,714 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:27:48,715 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:27:48,716 - INFO - 1976820585:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:27:48,717 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:27:48,717 - INFO - 1976820585:13 - artifacts/data_ingestion
+2025-12-04 15:27:48,718 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:27:48,718 - INFO - 2675924837:14 - File already exists in artifacts/data_ingestion/chicken_fecal_images.zip with size 183 kb
+2025-12-04 15:32:21,584 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:32:21,586 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:32:21,586 - INFO - 1976820585:6 - artifacts_root: artifacts,[PosixPath('artifacts')]
+2025-12-04 15:32:21,587 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:32:21,588 - INFO - 1976820585:13 - artifacts/data_ingestion
+2025-12-04 15:32:21,588 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:32:22,473 - INFO - 2675924837:10 - artifacts/data_ingestion/chicken_fecal_images.zip downloaded successfully and saved in artifacts/data_ingestion/chicken_fecal_images.zip
+2025-12-04 15:32:54,955 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:32:54,957 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:32:54,957 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:32:54,958 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:32:56,479 - INFO - 2675924837:10 - artifacts/data_ingestion/chicken_fecal_images.zip downloaded successfully and saved in artifacts/data_ingestion/chicken_fecal_images.zip
+2025-12-04 15:33:32,142 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:33:32,144 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:33:32,144 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:33:32,145 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:33:33,260 - INFO - 2675924837:10 - artifacts/data_ingestion/chicken_fecal_images.zip downloaded successfully and saved in artifacts/data_ingestion/chicken_fecal_images.zip
+2025-12-04 15:34:07,664 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:34:07,665 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:34:07,666 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:34:07,666 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:34:08,717 - INFO - 2675924837:10 - artifacts/data_ingestion/chicken_fecal_images.zip downloaded successfully and saved in artifacts/data_ingestion/chicken_fecal_images.zip
+2025-12-04 15:34:33,185 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-04 15:34:33,187 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-04 15:34:33,188 - INFO - common:34 - Created directory at: artifacts
+2025-12-04 15:34:33,188 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-04 15:34:33,189 - INFO - 2675924837:14 - File already exists in artifacts/data_ingestion/chicken_fecal_images.zip with size 11345 kb
+2025-12-05 15:43:06,571 - ERROR - main:10 - Error occurred in Data Ingestion Stage: 'NoneType' object has no attribute 'main'
+Traceback (most recent call last):
+  File "/Users/vishalsharma/Downloads/Coccidiosis Chicken Disease Classifier/main.py", line 8, in <module>
+    data_ingestion_pipeline.main()
+AttributeError: 'NoneType' object has no attribute 'main'
+2025-12-05 15:46:36,716 - INFO - data_ingestion_staging:14 - >>>>>> Stage Data Ingestion Stage started <<<<<<
+2025-12-05 15:46:36,716 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-05 15:46:36,718 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-05 15:46:36,718 - INFO - common:34 - Created directory at: artifacts
+2025-12-05 15:46:36,718 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-05 15:46:36,718 - INFO - data_ingestion:24 - File already exists in artifacts/data_ingestion/chicken_fecal_images.zip with size 11345 kb
+2025-12-05 15:46:36,774 - INFO - data_ingestion_staging:25 - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+
