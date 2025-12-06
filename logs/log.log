@@ -105,3 +105,53 @@ AttributeError: 'NoneType' object has no attribute 'main'
 2025-12-05 15:46:36,774 - INFO - data_ingestion_staging:25 - >>>>>> Stage Data Ingestion Stage completed <<<<<<
 
 
+2025-12-06 17:06:59,625 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-06 17:06:59,630 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-06 17:06:59,632 - INFO - common:34 - Created directory at: artifacts
+2025-12-06 17:06:59,632 - INFO - common:34 - Created directory at: artifacts/prepare_base_model
+2025-12-06 17:06:59,633 - INFO - 2794941991:10 - Getting base model
+2025-12-06 17:07:46,728 - WARNING - saving_api:83 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-12-06 17:07:46,768 - WARNING - saving_api:83 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-12-06 17:20:01,629 - INFO - data_ingestion_staging:14 - >>>>>> Stage Data Ingestion Stage started <<<<<<
+2025-12-06 17:20:01,630 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-06 17:20:01,631 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-06 17:20:01,631 - INFO - common:34 - Created directory at: artifacts
+2025-12-06 17:20:01,631 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-06 17:20:01,631 - INFO - data_ingestion:24 - File already exists in artifacts/data_ingestion/chicken_fecal_images.zip with size 11345 kb
+2025-12-06 17:20:01,701 - INFO - data_ingestion_staging:25 - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+
+2025-12-06 17:20:01,701 - INFO - prepare_model_staging:12 - >>>>>> Stage Prepare Model Staging Stage started <<<<<<
+2025-12-06 17:20:01,702 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-06 17:20:01,702 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-06 17:20:01,702 - INFO - common:34 - Created directory at: artifacts
+2025-12-06 17:20:01,702 - ERROR - main:13 - Error occurred in Data Ingestion Stage: 'PrepareBaseModelConfigManager' object has no attribute 'get_prepare_model_staging_config'
+Traceback (most recent call last):
+  File "/Users/vishalsharma/Downloads/Coccidiosis Chicken Disease Classifier/main.py", line 11, in <module>
+    prepare_model_pipeline.main()
+  File "/Users/vishalsharma/Downloads/Coccidiosis Chicken Disease Classifier/src/coccidiosis_chicken_disease_classifier/pipeline/prepare_model_staging.py", line 23, in main
+    raise e
+  File "/Users/vishalsharma/Downloads/Coccidiosis Chicken Disease Classifier/src/coccidiosis_chicken_disease_classifier/pipeline/prepare_model_staging.py", line 15, in main
+    prepare_model_staging_config = config.get_prepare_model_staging_config()
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'PrepareBaseModelConfigManager' object has no attribute 'get_prepare_model_staging_config'
+2025-12-06 17:21:24,315 - INFO - data_ingestion_staging:14 - >>>>>> Stage Data Ingestion Stage started <<<<<<
+2025-12-06 17:21:24,315 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-06 17:21:24,316 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-06 17:21:24,316 - INFO - common:34 - Created directory at: artifacts
+2025-12-06 17:21:24,316 - INFO - common:34 - Created directory at: artifacts/data_ingestion
+2025-12-06 17:21:24,316 - INFO - data_ingestion:24 - File already exists in artifacts/data_ingestion/chicken_fecal_images.zip with size 11345 kb
+2025-12-06 17:21:24,361 - INFO - data_ingestion_staging:25 - >>>>>> Stage Data Ingestion Stage completed <<<<<<
+
+
+2025-12-06 17:21:24,361 - INFO - prepare_model_staging:12 - >>>>>> Stage Prepare Model Staging Stage started <<<<<<
+2025-12-06 17:21:24,361 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-06 17:21:24,362 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-06 17:21:24,362 - INFO - common:34 - Created directory at: artifacts
+2025-12-06 17:21:24,362 - INFO - common:34 - Created directory at: artifacts/prepare_base_model
+2025-12-06 17:21:24,362 - INFO - prepare_base_model:20 - Getting base model
+2025-12-06 17:21:24,523 - WARNING - saving_api:83 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-12-06 17:21:24,553 - WARNING - saving_api:83 - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-12-06 17:21:24,573 - INFO - prepare_model_staging:22 - >>>>>> Stage Prepare Model Staging Stage completed <<<<<<
+
+
