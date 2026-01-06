@@ -5,8 +5,6 @@ from urllib import request
 from zipfile import ZipFile
 from src.coccidiosis_chicken_disease_classifier.entity.config_entity import PrepareBaseModelConfig
 
-STAGE_NAME = "Prepare Base Model Stage"
-
 
 from src.coccidiosis_chicken_disease_classifier import logger
 

@@ -155,3 +155,11 @@ AttributeError: 'PrepareBaseModelConfigManager' object has no attribute 'get_pre
 2025-12-06 17:21:24,573 - INFO - prepare_model_staging:22 - >>>>>> Stage Prepare Model Staging Stage completed <<<<<<
 
 
+2025-12-06 17:38:30,223 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-06 17:38:30,227 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-06 17:38:30,230 - INFO - common:34 - Created directory at: artifacts
+2025-12-06 17:39:37,781 - INFO - common:21 - YAML file: config/config.yaml loaded successfully
+2025-12-06 17:39:37,783 - INFO - common:21 - YAML file: params.yaml loaded successfully
+2025-12-06 17:39:37,784 - INFO - common:34 - Created directory at: artifacts
+2025-12-06 17:39:37,784 - INFO - common:34 - Created directory at: artifacts/prepare_callbacks/checkpoints
+2025-12-06 17:39:37,785 - INFO - common:34 - Created directory at: artifacts/prepare_callbacks/tensorboard_logs
